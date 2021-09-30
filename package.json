@@ -1,0 +1,28 @@
+{
+  "name": "design-patterns-training",
+  "version": "1.0.0",
+  "description": "Training on design patterns in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "init": "tsc --init",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielnono/design-patterns-tranning.git"
+  },
+  "keywords": [
+    "design",
+    "patterns",
+    "typescript"
+  ],
+  "author": "Ariel NONO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielnono/design-patterns-tranning/issues"
+  },
+  "homepage": "https://github.com/arielnono/design-patterns-tranning#readme",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
