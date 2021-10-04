@@ -1,4 +1,4 @@
-# Design pattern: Factory
+# Design pattern: Abstract Factory
 ## Requirements
 Build a pizzeria franchise in different cities which produce multiple type of pizzas.
 * We want all franchise stores to prepare all the pizzas in the same way
