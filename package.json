@@ -9,6 +9,7 @@
     "run:factory": "npm run build && node dist/factory/main.js",
     "run:factory-abstract": "npm run build && node dist/abstract-factory/main.js",
     "run:decorator": "npm run build && node dist/decorator/main.js",
+    "run:observer": "npm run build && node dist/observer/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
